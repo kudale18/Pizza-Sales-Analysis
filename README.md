@@ -1,5 +1,5 @@
 # Pizza-Sales-Analysis
-# Objective - The goal of this SQL project is to analyze pizza sales data to gain insights into customer behavior, popular pizza types, sales trends, and overall performance. 
+Objective - The goal of this SQL project is to analyze pizza sales data to gain insights into customer behavior, popular pizza types, sales trends, and overall performance. 
               The analysis will be performed using four tables: order_details, orders, pizza_type, and pizza.
 
  Dataset:
